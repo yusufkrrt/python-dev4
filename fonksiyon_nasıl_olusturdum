@@ -1,0 +1,7 @@
+Benzerlik bulma fonksiyonunu oluşturma kısmında iki farklı fonksiyon kullandım.
+Bunlardan bir tanesi girilen metini kelimelerine bölüyor diğeri ise karakterlerine parçalıyor.
+Karakterlerine parçalayan fonksiyon boşluğu karakterden kabul etmiyor ve karakterlerin
+kesişim kümesini karakterlerin birleşim kümesine bölerek benzerlik oranı buluyor.
+Geriye kesişim ve benzerlik oranları değeri döndürüyor.
+Kelimelerine parçalayan fonksiyon ise kelimelerin kesişim kümesini kelimelerin birleşim 
+kümesine bölerek benzerlik oranı buluyor.Geriye kesişim ve benzerlik oranları değeri döndürüyor.

@@ -1,0 +1,4 @@
+Kelime tabanlý benzerlik oraný: 0.50
+Benzer kelimeler: osman, yusuf
+Boþluksuz karakter tabanlý benzerlik oraný: 0.83
+Benzer karakterler: a, f, m, n, o, r, s, t, u, y
